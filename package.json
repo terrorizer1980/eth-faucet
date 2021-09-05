@@ -13,7 +13,7 @@
     "emoji-flag": "^1.1.0",
     "eth-query": "^2.1.2",
     "ethereumjs-tx": "^2.1.2",
-    "ethereumjs-util": "^7.0.0",
+    "ethereumjs-util": "^7.1.0",
     "ethjs-query": "^0.3.8",
     "express": "^4.14.0",
     "lavamoat": "^5.3.1",
