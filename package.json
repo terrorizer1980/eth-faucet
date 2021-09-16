@@ -16,7 +16,7 @@
     "ethereumjs-util": "^7.0.0",
     "ethjs-query": "^0.3.8",
     "express": "^4.14.0",
-    "lavamoat": "^5.3.1",
+    "lavamoat": "^5.3.2",
     "patch-package": "^6.2.2",
     "request": "^2.75.0",
     "web3-provider-engine": "^15.0.12",
