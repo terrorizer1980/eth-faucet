@@ -17,7 +17,7 @@
     "ethjs-query": "^0.3.8",
     "express": "^4.14.0",
     "lavamoat": "^5.3.1",
-    "patch-package": "^6.2.2",
+    "patch-package": "^7.0.1",
     "request": "^2.75.0",
     "web3-provider-engine": "^15.0.12",
     "xtend": "^4.0.1"
