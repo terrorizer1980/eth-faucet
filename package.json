@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@lavamoat/allow-scripts": "^1.0.5",
+    "@lavamoat/allow-scripts": "^2.3.1",
     "@pablopunk/geo-ip": "^1.0.0",
     "body-parser": "^1.15.2",
     "cors": "^2.8.1",
@@ -16,8 +16,8 @@
     "ethereumjs-util": "^7.0.0",
     "ethjs-query": "^0.3.8",
     "express": "^4.14.0",
-    "lavamoat": "^5.3.1",
-    "patch-package": "^6.2.2",
+    "lavamoat": "^8.0.0",
+    "patch-package": "^7.0.2",
     "request": "^2.75.0",
     "web3-provider-engine": "^15.0.12",
     "xtend": "^4.0.1"
